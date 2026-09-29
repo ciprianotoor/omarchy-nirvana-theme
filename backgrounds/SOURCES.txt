@@ -7,3 +7,4 @@ Nota: no se redistribuyen portadas de álbumes ni fotografías comerciales de co
 
 nirvana-around-1992.jpg — Nirvana en los MTV Video Music Awards 1992, foto disponible en Wikimedia Commons, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Nirvana_around_1992.jpg
 nirvana-1990.jpg — imagen de Nirvana disponible en Wikimedia Commons, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:1990_-_nirvana.jpg
+Las variantes `*-centered.jpg` son composiciones 3840×2160 que conservan la foto completa centrada sobre fondo negro para evitar el recorte automático de Omarchy.
