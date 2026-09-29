@@ -4,3 +4,6 @@
 01-yellow-stage.png, 02-black-white-noise.png, 03-red-room.png — exportaciones raster 3840×2160 de los SVG anteriores para compatibilidad con Omarchy; no IA.
 
 Nota: no se redistribuyen portadas de álbumes ni fotografías comerciales de conciertos de Nirvana. Para usar esas imágenes como fondos, obtén permiso/licencia y colócalas en ~/.config/omarchy/backgrounds/nirvana/.
+
+nirvana-around-1992.jpg — Nirvana en los MTV Video Music Awards 1992, foto disponible en Wikimedia Commons, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Nirvana_around_1992.jpg
+nirvana-1990.jpg — imagen de Nirvana disponible en Wikimedia Commons, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:1990_-_nirvana.jpg
