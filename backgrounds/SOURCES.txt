@@ -1,5 +1,6 @@
 01-yellow-stage.svg — obra original del tema, creada manualmente en SVG; no IA.
 02-black-white-noise.svg — obra original del tema, creada manualmente en SVG; no IA.
 03-red-room.svg — obra original del tema, creada manualmente en SVG; no IA.
+01-yellow-stage.png, 02-black-white-noise.png, 03-red-room.png — exportaciones raster 3840×2160 de los SVG anteriores para compatibilidad con Omarchy; no IA.
 
 Nota: no se redistribuyen portadas de álbumes ni fotografías comerciales de conciertos de Nirvana. Para usar esas imágenes como fondos, obtén permiso/licencia y colócalas en ~/.config/omarchy/backgrounds/nirvana/.
