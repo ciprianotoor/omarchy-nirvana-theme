@@ -1,13 +1,6 @@
-01-yellow-stage.svg — obra original del tema, creada manualmente en SVG; no IA.
-02-black-white-noise.svg — obra original del tema, creada manualmente en SVG; no IA.
-03-red-room.svg — obra original del tema, creada manualmente en SVG; no IA.
-01-yellow-stage.png, 02-black-white-noise.png, 03-red-room.png — exportaciones raster 3840×2160 de los SVG anteriores para compatibilidad con Omarchy; no IA.
+# Fondos del tema Nirvana
 
-Nota: no se redistribuyen portadas de álbumes ni fotografías comerciales de conciertos de Nirvana. Para usar esas imágenes como fondos, obtén permiso/licencia y colócalas en ~/.config/omarchy/backgrounds/nirvana/.
+nirvana-quote-diary.jpg y nirvana-quote-things.jpg — composiciones originales 3840×2160 con el logotipo de Nirvana y traducciones breves de frases atribuidas a Cobain. No son material oficial.
+nirvana-01.jpg … nirvana-10.jpg — composiciones originales 3840×2160, sin IA, con el logotipo disponible en Wikimedia Commons como CC0: https://commons.wikimedia.org/wiki/File:NirvanaLogo.svg
 
-nirvana-around-1992.jpg — Nirvana en los MTV Video Music Awards 1992, foto disponible en Wikimedia Commons, CC BY-SA 2.0: https://commons.wikimedia.org/wiki/File:Nirvana_around_1992.jpg
-nirvana-1990.jpg — imagen de Nirvana disponible en Wikimedia Commons, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:1990_-_nirvana.jpg
-Las variantes `*-centered.jpg` son composiciones 3840×2160 que conservan la foto completa centrada sobre fondo negro para evitar el recorte automático de Omarchy.
-
-nirvana-logo.svg — logotipo disponible en Wikimedia Commons como CC0: https://commons.wikimedia.org/wiki/File:NirvanaLogo.svg
-nirvana-quote-diary.jpg y nirvana-quote-things.jpg — composiciones originales 3840×2160 que usan el logotipo anterior y traducciones propias de frases breves atribuidas a Cobain; la atribución no implica respaldo oficial.
+Las frases de nirvana-01…10 son textos originales en español inspirados en la estética grunge; no se presentan como citas de Kurt Cobain.
